@@ -15,7 +15,8 @@ st.write("""
 
 ## lets build better
 also this is cool mate\n
-rahul is a gandu
+rahul is a gandu\n
+jassi too
 """)
 st.sidebar.header("yeah you got it mate")
 c = 67*78
