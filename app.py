@@ -5,7 +5,6 @@
 import streamlit as st
 import requests
 from bs4 import BeautifulSoup
-from colorama import Fore, Back, Style
 import re
 # In[60]:
 
