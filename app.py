@@ -11,7 +11,6 @@ import matplotlib.pyplot as mlt
 import numpy as np
 import smtplib, ssl
 import re
-import pyttsx3
 # In[60]:
 
 
